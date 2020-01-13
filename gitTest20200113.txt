@@ -1,2 +1,2 @@
-this is a stanard test in 20200113 by wangli
-this line used to add to test git status
+this is a stanard test in 20200113 by wangli,to test git add/git commit
+this line used to add to test git status/git diff
