@@ -2,3 +2,4 @@ this is a stanard test in 20200113 by wangli,to test git add/git commit
 this line used to add to test git status/git diff
 this line is used to test git log
 this line test git checkout
+this line is a test for git branch.
